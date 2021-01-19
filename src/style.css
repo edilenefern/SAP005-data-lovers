@@ -1,0 +1,15 @@
+#main {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 5px;
+  background-color: yellow;
+  
+}
+.card {
+  background-color: yellow;
+  border: 5px solid #0f0f0fcc;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  
+}

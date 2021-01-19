@@ -1,7 +1,4 @@
-// import pokemon from "./data/pokemon/pokemon.js";
 import data from "./data/pokemon/pokemon.js";
-
-
 
 const pokemons = data.pokemon;
 function print(array) {
